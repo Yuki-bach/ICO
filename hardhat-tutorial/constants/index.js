@@ -1,0 +1,4 @@
+// Address of the NFT Contract that you deployed
+const CRYPTO_DEVS_NFT_CONTRACT_ADDRESS = "0x75c4289751f6a3079630780b365166B58AcBf70C";
+
+module.exports = { CRYPTO_DEVS_NFT_CONTRACT_ADDRESS };
